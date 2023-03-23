@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "demos",
+  "info": {
+    "singularName": "demo",
+    "pluralName": "demos",
+    "displayName": "demo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dsdfsd": {
+      "type": "string"
+    },
+    "dfgd": {
+      "type": "richtext"
+    }
+  }
+}
